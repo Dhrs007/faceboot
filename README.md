@@ -1,2 +1,0 @@
-# faceboot
-bot face
