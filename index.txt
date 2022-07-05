@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" media="all" href="/css/style.css" />
+    <title>Bot Sosial Media</title>
+</head>
+<body>
+<h1>Tools Bot Sosial Media</h1>
+<p>Robot komentar Sosial Media</p>
+
+<section class="main">
+
+<a href="/facebook.php" target="_blank"><div class="wrap wrap--1">
+    <div class="container coba">
+      <p>01. Bot Facebook</p>
+    </div>
+  </div></a>
+
+  <a href="/facebook.com"><div class="wrap wrap--2">
+    <div class="container coba2">
+      <p>02. Bot Tiktok</p>
+    </div>
+  </div></a>
+
+  <div class="wrap wrap--3">
+    <div class="container coba3">
+      <p>03. Bot Instagram</p>
+    </div>
+  </div>
+
+</section>
+
+<script src="parallex.js"></script>
+<script src="parallex2.js"></script>
+</body>
+</html>
